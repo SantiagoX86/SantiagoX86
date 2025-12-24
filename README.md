@@ -7,7 +7,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/santiagox86)**
+- **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/SantiagoX86/VulnerabilityManagement_01)**
 
 ## Threat Hunting and Security Operations
 
