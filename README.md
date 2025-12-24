@@ -8,6 +8,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 ## Vulnerability Management Projects
 
 - **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/SantiagoX86/VulnerabilityManagement_01)**
+- **[STIG Implementation](https://github.com/santiagox86)**
 
 ## Threat Hunting and Security Operations
 
