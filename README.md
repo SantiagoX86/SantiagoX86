@@ -8,15 +8,16 @@ I also have another 'contributor' GitHub account that I created to practice both
 ## Vulnerability Management Projects
 
 - **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/SantiagoX86/VulnerabilityManagement_01)**
-- **[STIG Implementation](https://github.com/santiagox86)**
+- **[Azure VM Tenable Scan Enablement Script ](https://github.com/SantiagoX86/TenableVulnScanEnable)**
+- **[In Progress - STIG Implementation](https://github.com/santiagox86)**
 
 ## Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
+- **[In Progress - Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
 
 ## Penetration Testing Tools
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
+- **[In Progress - Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
 
 <hr/>
 
