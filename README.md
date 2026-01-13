@@ -9,7 +9,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 - **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/SantiagoX86/VulnerabilityManagement_01)**
 - **[Azure VM Tenable Scan Enablement Script ](https://github.com/SantiagoX86/TenableVulnScanEnable)**
-- **[In Progress - STIG Implementation](https://github.com/santiagox86)**
+- **[In Progress - STIG Implementation](https://github.com/SantiagoX86/STIG_Implementation)**
 
 ## Threat Hunting and Security Operations
 
