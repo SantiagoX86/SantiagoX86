@@ -2,7 +2,7 @@
 
 I'm a cybersecurity specialist with a particular passion for enhancing efficiency through analytical thought and automation projects. From vulnerability management to threat detection to vigilant preparation through penetration testing, I feel it is paramount in the industry that there be both secure operations being performed and efficient execution of those operations. Please feel free to check out my projects to see the work I’ve put into enhancing security operations and processes!
 
-I also have another 'contributor' GitHub account that I created to practice both repo owner and contributor roles - **[SantiCyberPirate](https://github.com/SantiCyberPirate)**
+I also have another 'contributor' GitHub account that I created to practice both repo owner and contributor roles, so you may see this contributor account pushing updates to code for some projects - **[SantiCyberPirate](https://github.com/SantiCyberPirate)**
 
 
 ## Vulnerability Management Projects
