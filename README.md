@@ -13,7 +13,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 ## Threat Hunting and Security Operations
 
-- **[In Progress - Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
+- **[CorpHealth - Threat Hunt](https://github.com/SantiagoX86/ThreatHunt_CorpHealth/blob/main/CorpHealth-ThreatHuntFinalReport.2026.01.24.md)**
 
 ## Penetration Testing Tools
 
