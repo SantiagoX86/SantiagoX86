@@ -17,7 +17,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 ## Penetration Testing Tools
 
-- **[In Progress - Threat Hunting Scenario (Tor Browser Usage)](https://github.com/santiagox86)**
+- **[In Progress - Agentless Network & Identity Discovery](https://github.com/santiagox86)**
 
 <hr/>
 
