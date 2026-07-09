@@ -17,7 +17,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 ## Penetration Testing Tools
 
-- **[In Progress - Agentless Network & Identity Discovery](https://github.com/SantiagoX86/Net_and_Id_Discovery)**
+- **[Agentless Network Discovery Tool](https://github.com/SantiagoX86/Net_and_Id_Discovery)**
 
 <hr/>
 
