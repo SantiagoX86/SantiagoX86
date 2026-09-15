@@ -19,6 +19,10 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 - **[Agentless Network Discovery Tool](https://github.com/SantiagoX86/Net_and_Id_Discovery)**
 
+## AI Software Governance Projects
+
+- **[Standards Aligned AI-assisted SDLC Operating Manual - (In Progress)](https://github.com/SantiagoX86)**
+
 <hr/>
 
 ## Connect With Me
