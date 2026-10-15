@@ -7,6 +7,7 @@ I also have another 'contributor' GitHub account that I created to practice both
 
 ## Vulnerability Management Projects
 
+- **[Vulnerability Scan with Vuln Assessement, Threat Int, MITRE ATT&CK Mapping, and Remediation ](https://github.com/SantiagoX86/VulnerabilityManagement_02)**
 - **[Vulnerability Scans with Programmatic Vulnerability Development Remediations ](https://github.com/SantiagoX86/VulnerabilityManagement_01)**
 - **[Azure VM Tenable Scan Enablement Script ](https://github.com/SantiagoX86/TenableVulnScanEnable)**
 - **[STIG Implementation](https://github.com/SantiagoX86/STIG_Implementation)**
