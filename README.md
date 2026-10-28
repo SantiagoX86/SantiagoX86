@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/sean-santiago-x86/">Sean Santiago</a>'s Cybersecurity Project Portfolio 🔐
 
-I'm a cybersecurity specialist with a particular passion for enhancing efficiency through analytical thought and automation projects. From vulnerability management to threat detection to vigilant preparation through penetration testing, I feel it is paramount in the industry that there be both secure operations being performed and efficient execution of those operations. Please feel free to check out my projects to see the work I’ve put into enhancing security operations and processes!
+I'm a cybersecurity specialist with a particular passion for enhancing efficiency through analytical thought, automation, and controlled processes. With experience in an enterprise control role at JPMC, vulnerability management experience at Log(N) Pacific, I feel it is paramount in the industry that there be both secure operations being performed and efficient execution of those operations, taking advantage of the modern tools at our disposal in a responsible and controlled manner. Please feel free to check out my projects to see the work I’ve put into enhancing security operations and processes!
 
 I also have another 'contributor' GitHub account that I created to practice both repo owner and contributor roles, so you may see this contributor account pushing updates to code for some projects - **[SantiCyberPirate](https://github.com/SantiCyberPirate)**
 
@@ -12,6 +12,10 @@ I also have another 'contributor' GitHub account that I created to practice both
 - **[Azure VM Tenable Scan Enablement Script ](https://github.com/SantiagoX86/TenableVulnScanEnable)**
 - **[STIG Implementation](https://github.com/SantiagoX86/STIG_Implementation)**
 
+## AI Software Governance Projects
+
+- **[In Progress - Standards Aligned AI-assisted SDLC Operating Manual]([https://github.com/SantiagoX86](https://github.com/SantiagoX86/AI_SDLC_Op_Manual))**
+
 ## Threat Hunting and Security Operations
 
 - **[CorpHealth - Threat Hunt](https://github.com/SantiagoX86/ThreatHunt_CorpHealth/blob/main/CorpHealth-ThreatHuntFinalReport.2026.01.24.md)**
@@ -19,10 +23,6 @@ I also have another 'contributor' GitHub account that I created to practice both
 ## Penetration Testing Tools
 
 - **[Agentless Network Discovery Tool](https://github.com/SantiagoX86/Net_and_Id_Discovery)**
-
-## AI Software Governance Projects
-
-- **[In Progress - Standards Aligned AI-assisted SDLC Operating Manual](https://github.com/SantiagoX86)**
 
 <hr/>
 
